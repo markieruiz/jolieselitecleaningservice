@@ -110,7 +110,7 @@ header .navbar-white {
     line-height: 80px;
     text-transform: uppercase;
     padding-top: 150px;
-    padding-bottom: 350x;
+    padding-bottom: 350px;
     font-weight: 700;
     font-family: Dosis;
 }
@@ -832,7 +832,7 @@ textarea.error {
     .navbar-lg .navbar-nav>li>a {
         padding-top: 26px;
         padding-bottom: 26px;
-        font-size: 12px;
+        font-size: 18px;
     }
     .navbar-lg .navbar-nav>li>a:hover,
     .navbar-lg .navbar-nav>li>a:active {
