@@ -53,14 +53,14 @@ a:hover {
     font-size: 30px;
 }
 
-.navbar-toggle:before {
+
+/* .navbar-toggle:before {
     background-image: url(../images/menu.png);
     background-repeat: no-repeat;
-}
+} */
 
 header .navbar-white a {
     color: palevioletred;
-    /* color: #3D566E; */
     font-weight: 700;
 }
 
@@ -86,16 +86,6 @@ header .navbar-white {
     box-shadow: 0px 3px 2px 0px rgba(50, 50, 50, 0.1);
 }
 
-
-/* .item.header {
-    background-image: url(../images/test.png);
-    background-repeat: no-repeat;
-    background-position: 0% top;
-    background-size: cover;
-    background-attachment: scroll;
-    background-color: rgba(0, 0, 0, 0);
-} */
-
 .item.header {
     background-image: url(../images/test.png);
     background-repeat: no-repeat;
@@ -117,9 +107,9 @@ header .navbar-white {
     z-index: 2;
     position: relative;
     font-size: 55px;
-    line-height: 90px;
+    line-height: 80px;
     text-transform: uppercase;
-    padding-top: 190px;
+    padding-top: 200px;
     padding-bottom: 190px;
     font-weight: 700;
     font-family: Dosis;
@@ -147,7 +137,7 @@ header .navbar-white {
 .toparea {
     background: #fff;
     margin-top: -100px;
-    padding-top: 30px;
+    padding-top: 100px;
 }
 
 .numbertext {
@@ -842,7 +832,7 @@ textarea.error {
     .navbar-lg .navbar-nav>li>a {
         padding-top: 26px;
         padding-bottom: 26px;
-        font-size: 18px;
+        font-size: 12px;
     }
     .navbar-lg .navbar-nav>li>a:hover,
     .navbar-lg .navbar-nav>li>a:active {
